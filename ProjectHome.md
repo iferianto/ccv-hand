@@ -1,0 +1,1 @@
+Nui Group - Summer of Code 2009. Hand Tracking for the Community Core Vision. Developed by Thiago de Freitas Oliveira  Araújo, mentored by Laurence Muller.
